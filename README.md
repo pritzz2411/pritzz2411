@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="githubimg.png" alt="Lavender anime banner" width="100%" />
+</div>
 <div align="center">
 
 # Hi, I'm Pritha!!
