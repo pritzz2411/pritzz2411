@@ -1,55 +1,48 @@
 
 <div align="center">
-  <img src="./anime-banner.png" alt="Lavender anime sunset study aesthetic" width="100%" />
 
-  <h1>Hi, I'm Pritha!!</h1>
-  <h3>Aspiring Full-Stack Developer</h3>
+# Hi, I'm Pritha!!
 
-  <p>
-    Learning, building, and turning ideas into projects.
-  </p>
+### Aspiring Full-Stack Developer
 
-  <img src="https://img.shields.io/badge/HTML5-E8A0BF?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-CDB4DB?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-B5838D?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-C3B1E1?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-D8B4E2?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
+Building my foundation in web development, exploring modern technologies, and turning what I learn into practical projects.
+
 </div>
 
 ---
 
 ## About Me
 
-I'm an aspiring developer focused on building a strong foundation in web development and understanding how applications work beyond the surface.
+I'm an aspiring developer focused on understanding how things work under the hood, not just getting them to work.
 
-- Currently learning React and strengthening my HTML, CSS, and JavaScript fundamentals.
-- Exploring full-stack development and modern web technologies.
-- Building projects to turn concepts into practical experience.
-- Exploring open-source contributions and collaborative development.
-- Working on writing cleaner code, debugging effectively, and improving my problem-solving skills.
+- Currently learning **React** and strengthening my fundamentals in **HTML, CSS, and JavaScript**.
+- Exploring full-stack development, from building user interfaces to understanding how applications work behind the scenes.
+- Learning through hands-on projects, debugging, and contributing to open-source communities.
+- Interested in writing cleaner code, solving problems, and continuously improving my development workflow.
 
-I believe consistent practice, curiosity, and learning from mistakes are essential to becoming a better developer.
+I believe the best way to grow as a developer is to stay curious, build consistently, and learn from the process.
+
+## Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E8A0BF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-CDB4DB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-B5838D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-E8A0BF?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-CDB4DB?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub" />
+</p>
 
 ## Current Focus
 
-- [ ] Strengthen JavaScript fundamentals.
-- [ ] Build interactive projects with React.
-- [ ] Improve responsive web design with CSS.
-- [ ] Learn more about APIs and backend development.
-- [ ] Contribute to open-source projects.
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritzz2411&show_icons=true&hide_border=true&bg_color=fffaff&title_color=9575cd&text_color=6b5b7b&icon_color=b39ddb" alt="GitHub statistics" />
-
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritzz2411&layout=compact&hide_border=true&bg_color=fffaff&title_color=9575cd&text_color=6b5b7b" alt="Most used programming languages" />
-</div>
+- Developing stronger front-end skills with React.
+- Building projects that apply what I learn.
+- Improving my problem-solving and Git workflow.
+- Exploring open-source contributions and full-stack development.
 
 ---
 
 <div align="center">
-  <i>Learning with intention. Building with purpose.</i>
+
+*Learning with intention. Building with purpose.*
+
 </div>
