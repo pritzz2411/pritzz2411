@@ -41,8 +41,3 @@ I believe the best way to grow as a developer is to stay curious, build consiste
 
 ---
 
-<div align="center">
-
-*Learning with intention. Building with purpose.*
-
-</div>
